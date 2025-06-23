@@ -1,4 +1,4 @@
-export const API_BASE_URL = "https://deliberate-jasmin-karim1911-23-9b16996e.koyeb.app/";
+export const API_BASE_URL = "https://deliberate-jasmin-karim1911-23-9b16996e.koyeb.app";
 
 export const CLOUD_NAME = "dow1nxdl2";
 
